@@ -3,7 +3,7 @@
 #
 def factorial(number):
     if number < 0:
-        raise Exception("Negative input commit 5")
+        raise Exception("Negative input commit 6")
 
     if number <= 1:
         return 1
